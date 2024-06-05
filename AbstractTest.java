@@ -1,6 +1,7 @@
 abstract class AbTest {
 		
 	public abstract void hello();
+	public abstract void m1();
 	
 
 	
