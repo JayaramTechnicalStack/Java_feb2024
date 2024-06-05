@@ -1,8 +1,5 @@
 abstract class AbTest {
-	public AbTest() {
-		System.out.println("inside AbTest constructor");
-	}
-	
+		
 	public abstract void hello();
 	
 
