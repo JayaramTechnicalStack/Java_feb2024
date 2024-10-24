@@ -1,6 +1,6 @@
 abstract class AbTest {
 	public AbTest() {
-		System.out.println("inside AbTest constructor");
+		System.out.println("inside AbTest constructor from Git Hub ");
 		}
 	public abstract void hello();
 	public abstract void m1();
