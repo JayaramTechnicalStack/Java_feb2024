@@ -11,7 +11,7 @@ abstract class AbTest {
 public class AbstractTest extends AbTest {
 	
 	public AbstractTest() {
-		System.out.println("inside AbstractTest constructor");
+		System.out.println("inside AbstractTest constructor conflicts will come");
 	}
 	public static void main(String[] args) {
 		 AbTest ab = new AbstractTest();
